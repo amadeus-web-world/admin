@@ -1,0 +1,12 @@
+#key	value
+name	AmadeusWeb | Admin
+byline	Creating Tangible Oasis
+safeName	amadeuswebadmin
+iconName	AmadeusWeb Admin
+footer-message	[For Information from and Activity supporting various "Movements In Unison."](%urlOf-world%missions/)
+siteMenuName	Admin
+mediakit	?content=DDCAAC
+sections	repositories
+local-url	http://localhost/dawn/admin/
+live-url	https://admin.amadeusweb.world/
+year	2025

@@ -1,0 +1,12 @@
+#Provider	Type	Slug_urlized	Notes
+|is-table-with-template			
+||head-columns: name, url, notes
+||row-template: <tr><td>%Slug_humanized%</td><td><a href="https://github.com/%Slug_urlized%~~TARGETNEW">%Slug_urlized% &nbsp;|&nbsp; <a href="https://github.com/%Slug_urlized%?tab=repositories~~TARGETNEW">repos</a></td><td>%Notes%</td></tr>
+
+GitHub	users	amadeus-web-world	websites, wisdom, work, world
+|GitHub	orgs	amadeus-web-work	Work Portfolio
+
+|GitHub	orgs	amadeus-web-sites	Official Member's Sites
+|GitHub	orgs	amadeus-web-incubating	People / Preview sites
+
+GitHub	orgs	amadeus-web-imran	Imran - personal
